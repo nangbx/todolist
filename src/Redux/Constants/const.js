@@ -1,0 +1,7 @@
+export const ADD_NOTE = 'ADD_NOTE'
+export const DELETE_NOTE = 'DELETE_NOTE'
+export const ADD_TODO = 'ADD_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const ACTIVE_TODO = 'ACTIVE_TODO'
+export const GET_DATA = 'GET_DATA'
+export const LOGIN = 'LOGIN'
