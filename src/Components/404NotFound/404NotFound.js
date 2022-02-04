@@ -7,7 +7,7 @@ export default function NotFound() {
     const navigate = useNavigate();
 	return (
 		<div className="page">
-			<div>
+			<div className="content">
 				<svg
 					width='1123'
 					height='837'
